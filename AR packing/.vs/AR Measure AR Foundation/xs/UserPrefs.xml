@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2CB26404-6389-2966-6E08-EC78595A4095}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JakisSkrypt.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/AddButtonScript.cs" Line="84" Column="24" />
+      <File FileName="Assets/RandomColor.cs" Line="7" Column="36" />
+      <File FileName="Assets/JakisSkrypt.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR Measure AR Foundation" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f4975b4e-e5e8-490e-9596-c8379ae7ef1b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
